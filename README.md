@@ -26,7 +26,7 @@ Your browser will open local version of KSS Explorer automatically.
 
 ## Build
 
-Build process creates ./dist directory with Waves Explorer distribution that supports mainnet, testnet and a custom network. 
+Build process creates ./dist directory with KSS Explorer distribution that supports mainnet. 
 To create the distribution, run from the project directory:
 ```
 gulp buildOfficialProd
