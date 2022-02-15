@@ -1,6 +1,6 @@
 # Waves Explorer
 
-Waves Blockchain Explorer is available on https://wavesexplorer.com
+KSS Blockchain Explorer is available on https://krossexplorer.com/
 
 ## Setup
 
@@ -22,7 +22,7 @@ yarn install
 yarn start
 ```
 
-Your browser will open local version of Waves Explorer automatically.
+Your browser will open local version of KSS Explorer automatically.
 
 ## Build
 
